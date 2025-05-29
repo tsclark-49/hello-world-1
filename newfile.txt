@@ -3,3 +3,8 @@ Some Word
 
 def calculate_average(numbers):
     #Testing CoPilot do I need to turn it on or something?
+
+
+## Function to reverse a string
+def reverse_string(s):
+    return s[::-1]
